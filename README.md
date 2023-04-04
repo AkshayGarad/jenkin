@@ -47,7 +47,7 @@ Start Jenkins using the following command:
 sudo systemctl start jenkins
 ```
 ## Step 8: Verify the installation
-Verify that Jenkins is installed correctly by accessing the Jenkins web interface at http://<your-server-ip>:8080. You should see the Jenkins login screen.
+Verify that Jenkins is installed correctly by accessing the Jenkins web interface at `http://<your-server-ip>:8080`. You should see the Jenkins login screen.
 
 ## Step 9: Unlock Jenkins
 Before you can use Jenkins, you need to unlock it using the initial administrator password. You can find this password in the following file:
